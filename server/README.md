@@ -1,6 +1,6 @@
 # Test_Proffibit_CRUD
 
 
-Запрос для создания таблицы в базе данных.
+Р—Р°РїСЂРѕСЃ РґР»СЏ СЃРѕР·РґР°РЅРёСЏ С‚Р°Р±Р»РёС†С‹ РІ Р±Р°Р·Рµ РґР°РЅРЅС‹С….
 
 CREATE TABLE users_name (id BIGSERIAL PRIMARY KEY, name VARCHAR (200));
