@@ -1,0 +1,6 @@
+<div>
+    <form name="userForm">
+        <input type="text" ng-model="user.name" placeholder="Name" required>
+        <input type="button" value="Submit" ng-click="submit(user)" ng-disabled="userForm.$invalid">
+    </form>
+</div>
